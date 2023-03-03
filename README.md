@@ -1,0 +1,1 @@
+﻿Mod for [Tale of Immortal](https://store.steampowered.com/app/1468810/_Tale_of_Immortal/) that removes gender restrictions from the game.
